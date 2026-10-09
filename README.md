@@ -20,7 +20,7 @@ Collect an illustrated stamp for every heritage place, summit and trail you visi
 - **Works offline** once opened, so it is fine on a hill with no signal
 - **Installs like an app** from the browser, with its own home-screen icon
 - **Private:** stamps stay on your device. No accounts, no server, no tracking
-- **Backup and restore** as a small JSON file, e.g. when changing phone
+- **Backup and restore** as a small JSON file, with a reminder when you have unsaved stamps, a preview before restoring and an undo afterwards
 
 Waystamp is an independent, open-source project. It is not affiliated with or endorsed by the National Trust, English Heritage, Cadw, Historic Environment Scotland or any other organisation whose places appear in it. Place names are used only to identify the places. All stamp artwork is original.
 
